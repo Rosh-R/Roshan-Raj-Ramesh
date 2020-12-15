@@ -8,3 +8,16 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 * Which hosts are the busiest and why?
 * What areas have more traffic than others and why is that the case?
 * Are there any relationships between prices, number of reviews, and the number of days that a given listing is booked?
+
+# [Project 2: Electric Load Forecasting: Project Overview](https://github.com/Rosh-R/Electric-Load-Forecasting)
+
+## Objective
+
+We are very much dependent to the Electricity. It is our reponsibility to prevent from a catastrophic power failure. To prevent this we need to do some precautionary measures.
+* We must have a balance between power consumption and production, when this equilibrium falls apart we experience power failure at the particular locality.
+* It is important to steady the usage of the customers to prevent any faults occuring in the power system.
+
+## Solution
+
+* Clustering the Household with respect to their Electric load consumption 
+* Forecasting Electric Load in order to be ready for the worst case scenario
