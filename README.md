@@ -1,7 +1,7 @@
 # Roshan Portfolio
 Data Science Portfolio
 
-# Project 1: New York Airbnb Data Exploration: Project Overview
+# [Project 1: New York Airbnb Data Exploration: Project Overview](https://github.com/Rosh-R/New-York-Airbnb-Data-Exploration/tree/main)
 
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more personalized ways of experiencing the world. This dataset contains information on 2019 listings in New York and its geographical information, prices, number of reviews, and more.
 
