@@ -21,3 +21,7 @@ We are very much dependent to the Electricity. It is our reponsibility to preven
 
 ### [Clustering the Household with respect to their Electric load consumption](https://github.com/Rosh-R/Electric-Load-Forecasting/blob/main/Load%20Forecasting%20Clustering.ipynb)
 ### Forecasting Electric Load in order to be ready for the worst case scenario
+
+# [Project 3: US based Retailing chain operating company Data Exploration: Project Overview](https://public.tableau.com/profile/roshan.raj3718#!/vizhome/LOD_15883074327320/Combined)
+### This Project was a part of my Online learning 
+Skills Acquired: Level of Detail Calculations
