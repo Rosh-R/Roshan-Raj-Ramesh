@@ -1,4 +1,3 @@
-# Roshan Portfolio
 Data Science Portfolio
 
 # [Project 1: New York Airbnb Data Exploration: Project Overview](https://github.com/Rosh-R/New-York-Airbnb-Data-Exploration/tree/main)
