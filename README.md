@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-# [Project 1: Breast Cancer Analysis: Project Overview](https://github.com/Rosh-R/New-York-Airbnb-Data-Exploration/tree/main)
+# Project 1: Breast Cancer Analysis: Project Overview
 
 ## Objective
 
@@ -17,7 +17,22 @@ Unsupervised machine learning algorithms such as PCA and K-Means (k=2, 3, 5) clu
 ## Learning Outcome
 Understanding the mechanics of behind supervised and un-supervised algorithms for a simple two-classed dataset. 
 
-# [Project 1: New York Airbnb Data Exploration: Project Overview](https://github.com/Rosh-R/New-York-Airbnb-Data-Exploration/tree/main)
+# [Project 2: Cryptocurreny time-series analysis: Project Overview](https://github.com/Rosh-R/Crypto-Currency-TS-Analysis)
+
+## Dataset Obtained from the year 2018 to MAY 2021:
+* Tesla
+* Ethereum
+* Bitcoin
+* Dogecoin
+Datasets are obtained from Yahoo Finance Website
+
+## Objective
+To do EDA of the time series and to find out the correlation between several cryptocurrencies. Finding out whether Tesla stock price has an effect on cryptocurrencies. Trying to find a way to predict the stock price of cryptocurrencies in he future. 
+
+### Results are yet to be documented
+
+
+# [Project 2: New York Airbnb Data Exploration: Project Overview](https://github.com/Rosh-R/New-York-Airbnb-Data-Exploration/tree/main)
 
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more personalized ways of experiencing the world. This dataset contains information on 2019 listings in New York and its geographical information, prices, number of reviews, and more.
 
