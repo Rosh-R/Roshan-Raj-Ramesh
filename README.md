@@ -37,8 +37,8 @@ To do EDA of the time series and to find out the correlation between several cry
 This project focus on widening the active gamers count for an e-Sports title. This study gives strategies to the game developers to make the game more interesting and to the new gamers entering an E-Sports title by giving them an introductory guide. The main objective is to address the skill gap between players and giving satisfaction to the gamers while they are gaming.
 
 ## Proposed Idea
-*Recommendations and suggestions for game developers to retain the entertainment of the game.
-*Introductory game guide for new comers to the game and helping them to have a decent gun fight time. 
+* Recommendations and suggestions for game developers to retain the entertainment of the game.
+* Introductory game guide for new comers to the game and helping them to have a decent gun fight time. 
 
 ## Interactive Visualizations
 * Weapon Analysis [LINK](https://public.tableau.com/app/profile/roshan.raj3718/viz/WeaponanalysisR/WeaponDashboard)
