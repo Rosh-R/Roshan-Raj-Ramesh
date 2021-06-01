@@ -31,8 +31,33 @@ To do EDA of the time series and to find out the correlation between several cry
 
 ### Results are yet to be documented
 
+# [Project 3: PUBG's Downfall and E-Sports Industry](https://github.com/Rosh-R/PUBG-s-Downfall-and-E-Sports-Industry)
 
-# [Project 2: New York Airbnb Data Exploration: Project Overview](https://github.com/Rosh-R/New-York-Airbnb-Data-Exploration/tree/main)
+## Abstact
+This project focus on widening the active gamers count for an e-Sports title. This study gives strategies to the game developers to make the game more interesting and to the new gamers entering an E-Sports title by giving them an introductory guide. The main objective is to address the skill gap between players and giving satisfaction to the gamers while they are gaming.
+
+## Proposed Idea
+*Recommendations and suggestions for game developers to retain the entertainment of the game.
+*Introductory game guide for new comers to the game and helping them to have a decent gun fight time. 
+
+## Interactive Visualizations
+* Weapon Analysis [LINK](https://public.tableau.com/app/profile/roshan.raj3718/viz/WeaponanalysisR/WeaponDashboard)
+* Postion Analysis [LINK](https://public.tableau.com/app/profile/roshan.raj3718/viz/Miramir/Dashboard1)
+* Gameplay Analysis of a player [LINK](https://public.tableau.com/app/profile/roshan.raj3718/viz/aggmatch/EDA)
+
+## Future Scope and Conclusion
+* Comparing the player’s skill gap of a trending game say fortnite, apex legends with PUBG can help us understand the real reason behind PUBG’s downfall.
+* Analytics can help an E-Sports title retaining the players and also will help to modify some gameplay decision that can make an E-Sports title more welcoming.
+
+### Results are documented in GitHub. 
+
+# [Project 4: Finanical Serives: Analysis on CAPEX and OPEX of a company's software investment](https://github.com/Rosh-R/CAPEX-and-OPEX-Analysis)
+
+## [Objective](https://github.com/Rosh-R/CAPEX-and-OPEX-Analysis/blob/main/Problem%20Objective.pdf)
+
+## [Report](https://github.com/Rosh-R/CAPEX-and-OPEX-Analysis/blob/main/Financial%20Service%20and%20Information%20System.pdf)
+
+# [Project 5: New York Airbnb Data Exploration: Project Overview](https://github.com/Rosh-R/New-York-Airbnb-Data-Exploration/tree/main)
 
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more personalized ways of experiencing the world. This dataset contains information on 2019 listings in New York and its geographical information, prices, number of reviews, and more.
 
@@ -40,7 +65,7 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 * What areas have more traffic than others and why is that the case?
 * Are there any relationships between prices, number of reviews, and the number of days that a given listing is booked?
 
-# [Project 2: Electric Load Forecasting: Project Overview](https://github.com/Rosh-R/Electric-Load-Forecasting)
+# [Project 6: Electric Load Forecasting: Project Overview](https://github.com/Rosh-R/Electric-Load-Forecasting)
 
 ## Objective
 
